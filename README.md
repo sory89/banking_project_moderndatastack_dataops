@@ -1,4 +1,3 @@
-# Modern Data Stack Pipeline Banking Data
 # 🏦 Banking Modern Data Stack
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
